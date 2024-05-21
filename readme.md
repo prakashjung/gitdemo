@@ -1,5 +1,6 @@
 ### GIT DEMO PROJECT
 
+- This is Prakash Jung Rayamajhi.
 - This repository demonstrates the use of git commands
 - This is a demo project
 
